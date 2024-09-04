@@ -1,2 +1,1 @@
-# sdms
-School Department Management System
+##SDMS
